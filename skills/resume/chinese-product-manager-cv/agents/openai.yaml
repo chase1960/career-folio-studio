@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文产品经理求职简历"
+  short_description: "按固定一页版式和STAR方法，改写中文互联网产品经理及AI产品实习简历"
+  default_prompt: "使用 $chinese-product-manager-cv，根据我的真实经历和目标岗位制作一页中文求职简历 PDF。"
